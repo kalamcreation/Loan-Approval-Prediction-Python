@@ -4,6 +4,7 @@ Created on Fri Jul  1 20:26:16 2022
 
 @author: USER
 """
+import sklearn
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
